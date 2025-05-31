@@ -1,2 +1,3 @@
-### Stockmarket Forcasting 📊🖥️
+# Stockmarket Forcasting 📊🖥️
+
 ## Predicting next close using neural network
